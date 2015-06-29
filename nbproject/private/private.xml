@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+<<<<<<< HEAD
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1"/>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group/>
+=======
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/Test/smartcard/protected/views/dJadwal/_formUpdate.php</file>
+            <file>file:/C:/xampp/htdocs/Test/smartcard/protected/views/mJadwal/_formJadwal.php</file>
+            <file>file:/C:/xampp/htdocs/Test/smartcard/protected/controllers/BeritaAcaraDaftarHadirController.php</file>
+        </group>
+>>>>>>> 983b2a13e73747ffb52fffcc3e4a7ad6aa5a75a4
+    </open-files>
+</project-private>
